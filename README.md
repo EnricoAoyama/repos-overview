@@ -1,6 +1,7 @@
 # Repositories Overview
 
 This is a curated overview of my projects and repositories.
+
 I use this space both as a personal index and as a lightweight portfolio of my work, studies, and tools.
 
 ---
@@ -30,7 +31,7 @@ I use this space both as a personal index and as a lightweight portfolio of my w
 ## Tools I Use
 | Name | Role | Link |
 |------|------|------|
-| Pandoc | consumer | [View]([link](https://github.com/jgm/pandoc)) |
+| pandoc | consumer | [View repository](https://github.com/jgm/pandoc) |
 
 ---
 

@@ -1,4 +1,7 @@
 # Repositories Overview
+
+This is a curated overview of my projects and repositories.
+
 I use this space both as a personal index and as a lightweight portfolio of my work, studies, and tools.
 
 ---

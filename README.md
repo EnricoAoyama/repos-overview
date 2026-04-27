@@ -32,6 +32,7 @@ I use this space both as a personal index and as a lightweight portfolio of my w
 | Name | Role | Link |
 |------|------|------|
 | pandoc | consumer | [View repository](https://github.com/jgm/pandoc) |
+| tesseract-ocr | consumer | [View repository](https://github.com/tesseract-ocr/tesseract) |
 
 ---
 

@@ -31,6 +31,7 @@ I use this space both as a personal index and as a lightweight portfolio of my w
 ## Tools I Use
 | Name | Role | Link |
 |------|------|------|
+| duckdb | consumer | [View repository](https://github.com/duckdb/duckdb) |
 | pandoc | consumer | [View repository](https://github.com/jgm/pandoc) |
 | tesseract-ocr | consumer | [View repository](https://github.com/tesseract-ocr/tesseract) |
 

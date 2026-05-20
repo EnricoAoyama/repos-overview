@@ -34,6 +34,7 @@ I use this space both as a personal index and as a lightweight portfolio of my w
 | duckdb | consumer | [View repository](https://github.com/duckdb/duckdb) |
 | pandoc | consumer | [View repository](https://github.com/jgm/pandoc) |
 | tesseract-ocr | consumer | [View repository](https://github.com/tesseract-ocr/tesseract) |
+| ucimlrepo | consumer | [View repository](https://github.com/uci-ml-repo/ucimlrepo) |
 
 ---
 
